@@ -13,5 +13,4 @@
 int createTCPIPv4Socket();
 struct sockaddr_in * createIPv4Address(char * ip, int port);
 
-
 #endif
